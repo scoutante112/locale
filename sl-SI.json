@@ -79,7 +79,7 @@
 	"open.success": "Odprl novo vstopnico: %s",
 	"setup.auto.category.failure": "Manjka mi dovoljenje za upravljanje kanalov",
 	"setup.auto.category.success": "Ustvaril kategorijo vstopnic",
-	"setup.auto.completed": "Nastavitev končana! Kliknite [tukaj](https://dashboard.ticketsbot.net/manage/%d/panels), da nastavite odzivno ploščo in dodate vlogi <@&%d> in <@&%d> svojim članom osebja",
+	"setup.auto.completed": "Nastavitev končana! Kliknite [tukaj](https://ticket.labnat.se/manage/%d/panels), da nastavite odzivno ploščo in dodate vlogi <@&%d> in <@&%d> svojim članom osebja",
 	"setup.auto.roles.failure": "Manjka mi dovoljenje `Upravljanje vlog`",
 	"setup.auto.roles.success": "Ustvarjene vlogi `Tickets Admin` & `Tickets Support`",
 	"setup.auto.transcript.failure": "Manjka mi dovoljenje za upravljanje kanalov",

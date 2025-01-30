@@ -12,7 +12,7 @@
 	"commands.language.invalid": "Meg kell adnia egy nyelvi kódot vagy zászlót. Elérhető nyelvek:\\n%s",
 	"commands.open.ticket_limit": "Csak %d %s számú jegy nyitható meg egyszerre!",
 	"commands.open.too_many_tickets": "Túl sok jegy van a jegykategóriában. Kérjen meg egy rendszergazdát, hogy zárjon be néhányat, vagy helyezzen át egy másik kategóriába.",
-	"commands.panel": "Látogasd meg a <https://dashboard.ticketsbot.net/manage/%d/panels> weboldalt, hogy szerkeszthesd a panelt",
+	"commands.panel": "Látogasd meg a <https://ticket.labnat.se/manage/%d/panels> weboldalt, hogy szerkeszthesd a panelt",
 	"commands.premium": "Prémium előfizetést vásárolhat <https://www.patreon.com/ticketsbot>.\\nA prémium számos előnnyel jár, mint pl:\\n```diff\\n+ Korlátlan jegypanel\\n+ Személyreszabható bot név, kép (whitelabel)\\n+ Részletes statisztikák a szerverről, a felhasználókról és a staffokról\\n+ Lábrészben szereplő vízjel eltávolítása.\\n+ Támogassa a fejlesztést, és segítsen a szerver költségeinek kifizetésében\\n```\\n\\nAlternatív megoldásként szavazhat itt: <https://vote.ticketsbot.net> Szerezz ingyenes prémiumot 24 óráig.",
 	"commands.premium.invalid_key": "Hibás kulcs. Győződjön meg arról, hogy helyesen másolta-e be.",
 	"commands.remove.no_permission": "Nincs jogosúltságod személyek eltávolításához.",
